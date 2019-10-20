@@ -8,3 +8,6 @@ My github account from the school is:
 https://github.com/AaribAbdullah?tab=overview&from=2019-04-01&to=2019-04-30
 
 I worked on class projects from Compilers, Operating Systems, Artificaial Intelligence, Foundations of Software Engineering, and Software Development with Open Source.
+
+
+I am also using this account to work on projects
