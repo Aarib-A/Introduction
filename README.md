@@ -14,3 +14,8 @@ I am also using this account to work on projects.
 
 
 Here is my account overview at https://github.com/Aarib-Abdullah.
+
+Both accounts hold all the projects I contributed to.
+
+
+Thank you, and have a nice day.
