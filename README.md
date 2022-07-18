@@ -1,6 +1,6 @@
 # Introduction
 
-Resume --> https://github.com/Aarib-A/Introduction/blob/master/Aarib%20A_Resume.pdf
+Resume --> https://github.com/Aarib-A/Introduction/blob/master/Resume_Aarib%20A.pdf
 
 Hello my name is Aarib.
 
